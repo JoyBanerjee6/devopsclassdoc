@@ -1,2 +1,3 @@
 hostname > hostname.txt
-ls -l
+ls -la /etc > dir.txt
+ip a > ip.txt
