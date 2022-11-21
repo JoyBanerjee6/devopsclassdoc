@@ -1,4 +1,4 @@
-echo "Joy Build 2"
-pwd
-df -Th
-ls -la /etc
+echo "Joy Build 3" 
+who
+date
+time
