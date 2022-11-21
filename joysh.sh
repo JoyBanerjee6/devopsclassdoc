@@ -1,3 +1,4 @@
-echo "Joy Build 1"
-cal
-uname -r
+echo "Joy Build 2"
+pwd
+df -Th
+ls -la /etc
