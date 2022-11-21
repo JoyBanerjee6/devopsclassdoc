@@ -1,0 +1,4 @@
+hostname > hostname.txt
+ls -la /etc > dir.txt
+ip a > ip.txt
+uname -r > kv.txt
