@@ -1,4 +1,3 @@
-echo "Joy Build 5" 
-who
-date
-time
+echo "Joy Build 6" 
+ip a
+cal 2021
