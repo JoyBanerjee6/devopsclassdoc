@@ -1,3 +1,3 @@
-echo "Joy Build 6" 
+echo "Joy Build 7" 
 ip a
-cal 2021
+cal
