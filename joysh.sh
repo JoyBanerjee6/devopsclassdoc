@@ -1,3 +1,3 @@
-echo "Joy Build 7" 
+echo "Joy Build 8000" 
 ip a
 cal
