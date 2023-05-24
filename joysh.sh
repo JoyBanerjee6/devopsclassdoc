@@ -1,3 +1,3 @@
-echo "Joy Build 8000" 
+echo "Joy Build 18000" 
 uname -r
-cal 2001
+cal 1943
